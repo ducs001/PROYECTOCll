@@ -7,4 +7,5 @@
 - EXPLICIT https://www.cnblogs.com/pityhero233/p/8146585.html
 - VARIABLES  EN C++ https://www.tutorialspoint.com/cplusplus/cpp_references.htm
 - PUNTEROS  VS REFERENCIA https://www.geeksforgeeks.org/pointers-vs-references-cpp/
+- Memoria https://www.genbeta.com/desarrollo/punteros-y-referencias
 - 
