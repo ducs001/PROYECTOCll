@@ -10,3 +10,4 @@
 - Memoria https://www.genbeta.com/desarrollo/punteros-y-referencias
 - PROGRAMACION COMPETITIVA https://www.hackerearth.com/getstarted-competitive-programming/ 
 - Los 7 mejores sitios web de desafíos de codificación en 2020 https://www.geeksforgeeks.org/7-best-coding-challenge-websites-in-2020/
+-programacion paralela https://blog.csdn.net/qq_43331089/article/details/124409123?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-124409123-blog-124720677.pc_relevant_multi_platform_whitelistv4&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-124409123-blog-124720677.pc_relevant_multi_platform_whitelistv4&utm_relevant_index=5
