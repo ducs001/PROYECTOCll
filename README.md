@@ -9,3 +9,4 @@
 - PUNTEROS  VS REFERENCIA https://www.geeksforgeeks.org/pointers-vs-references-cpp/
 - Memoria https://www.genbeta.com/desarrollo/punteros-y-referencias
 - PROGRAMACION COMPETITIVA https://www.hackerearth.com/getstarted-competitive-programming/ 
+- Los 7 mejores sitios web de desafíos de codificación en 2020 https://www.geeksforgeeks.org/7-best-coding-challenge-websites-in-2020/
