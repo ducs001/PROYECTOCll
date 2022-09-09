@@ -13,3 +13,4 @@
 -programacion paralela https://blog.csdn.net/qq_43331089/article/details/124409123?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-124409123-blog-124720677.pc_relevant_multi_platform_whitelistv4&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-124409123-blog-124720677.pc_relevant_multi_platform_whitelistv4&utm_relevant_index=5
 - ejercicios  sobre  thread: https://blog.csdn.net/qq_38409301/article/details/122096459
 - THEAD  USANDO FUNCION OBJETO , FUNCION PUNTERO , EXPRESION LAMBDA https://www.softwaretestinghelp.com/multithreading-in-cpp/
+_future and promise https://www.airchip.org.cn/index.php/2022/03/19/example-cpp-future/
